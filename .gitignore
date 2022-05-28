@@ -6,3 +6,6 @@ package-lock.json
 _dist
 _cache
 /_src/localStyles
+.vs/Henry.Prep.Course/v17/.suo
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
