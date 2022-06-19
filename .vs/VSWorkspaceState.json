@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01a-Git",
-    "\\01a-Git\\homework",
-    "\\02-JS-I",
-    "\\02-JS-I\\homework",
-    "\\03-JS-II\\homework"
+    "\\03-JS-II\\homework\\tests",
+    "\\05-JS-IV",
+    "\\05-JS-IV\\homework",
+    "\\Challenge"
   ],
-  "SelectedNode": "\\02-JS-I\\homework\\README.md",
+  "SelectedNode": "\\05-JS-IV\\homework\\homework.js",
   "PreviewInSolutionExplorer": false
 }
